@@ -69,7 +69,7 @@
   },
   "dependencies": {
     "@ronomon/base64": "github:lexuzieel/base64#node15",
-    "@ronomon/quoted-printable": "^3.2.1",
+    "@ronomon/quoted-printable": "github:lexuzieel/quoted-printable#master",
     "iconv": "^2.3.5"
   }
 }
